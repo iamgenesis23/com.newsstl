@@ -1,10 +1,10 @@
 import Header from "../components/Header";
-import WeatherSlider from "../components/WeatherSlider";
+import Radar from "../components/Radar";
 
 export default function Home() {
     return (
         <>
-            <WeatherSlider />
+            <Radar />
         </>
     );
 }
